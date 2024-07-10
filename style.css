@@ -13,6 +13,8 @@
     padding: 10px;
     border-radius: 40px;    
     height: auto;
+    margin-bottom: auto;
+    min-width: 380px;
 }
 .mini-conteiner-name-rates-21vcrm, .h1-rates-21vcrm {
     text-align: center;
