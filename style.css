@@ -1,4 +1,4 @@
-p, h1, h2, h3, .order-implementation-rates-21vcrm {
+.montserrat-21vcrm-siti {
     font-family: "Montserrat", sans-serif;
 }
 .check-mark-rates-21vcrm {
@@ -29,9 +29,8 @@ p, h1, h2, h3, .order-implementation-rates-21vcrm {
     width: 40px;
     height: 40px;
     margin-left: auto;
-    margin-top: 5px
+    margin-top: 5px;
     margin-right: 10px;
-
 }
 .margin-left-rates-21vcrm {
     margin-left: auto;
@@ -40,7 +39,7 @@ p, h1, h2, h3, .order-implementation-rates-21vcrm {
 .margin-top-rates-21vcrm {
     margin-bottom: 10px;
 }
-p {
+.montserrat-21vcrm-siti p {
     margin-bottom: -3px;
 }
 .empty-img-rates-21vcrm {
@@ -91,4 +90,7 @@ p {
 }
 .special-batary {
     margin-top: 15px;
+}
+.montserrat-21vcrm-siti summary {
+    cursor: pointer;
 }
